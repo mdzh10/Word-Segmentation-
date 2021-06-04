@@ -1,0 +1,1 @@
+python opencv_text_detection_image.py --image images/Book3.jpg --east frozen_east_text_detection.pb
